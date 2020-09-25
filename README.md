@@ -21,4 +21,4 @@ Email
 
 Favorite
 --------------
-**game, movie**
+**게임, 영화 보기**
